@@ -9,11 +9,15 @@ Objetivo
 
 A rede social tem o layout simples e intuitivo, sendo assim por esse motivo foi escolhido o mesmo para testar meus conhecimentos em python na criação do meu primeiro site.
 
-Disponível, inspiração e créditos: 
+Tecnologias usadas: 
 
 Para a realização do projeto foi utilizada a IDE VsCode para aprendizado e também para testar a usabilidade do programa.
-Além disso, como parte do processo de aprendizado foram utilizadas algumas bibliotecas essenciais para a criação do site como, por exemplo, Flask. 
-Mas também alguns recursos que são comuns para esse tipo de projeto como usabilidade de arquivos em html e css. 
+ 
+Python: linguagem de progrmação utilizada para fazer toda a base do projeto; 
+
+HTML: A estrutura básica da página, como os títulos, botões e onde os resultados vão aparecer e 
+
+CSS: deixa tudo bonitinho e organizado, com cores e fontes legais. 
 
 Como boas práticas, o projeto foi separado em algumas pastas para melhor visualização e organização do código e inclusão de chaves secretas em variaveis de desenvolvimento do próprio servidor. 
 O servidor utilizado foi o render: https://dashboard.render.com/ para o processo de deploy, assim como a criação do banco de dados do mesmo PostgreSQL.
